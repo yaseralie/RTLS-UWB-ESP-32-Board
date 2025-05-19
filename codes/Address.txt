@@ -1,0 +1,9 @@
+Anchor:
+#1. 84:00:5B:D5:A9:9A:E4:9C
+#2. 85:00:5B:D5:A9:9A:E2:9C
+
+Tag:
+#1. 7D:00:22:EA:82:60:3B:9C
+
+Saat kalibarasi, coba2 dengan menekan tombol reset,
+ambil nilai yang paling rendah saat pengambilan data
