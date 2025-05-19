@@ -1,0 +1,2 @@
+1. Install Paho library
+	Open cmd: pip install paho-mqtt
