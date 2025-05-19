@@ -1,1 +1,4 @@
-tests/bin
+.build
+tmpbin
+logs
+*.pyc
